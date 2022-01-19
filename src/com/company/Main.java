@@ -8,7 +8,7 @@ public class Main {
         System.out.println("Matrix:");
         printMatrix(array);
         changeD(array);
-        System.out.println("Matrix with changed diagonal:");
+        System.out.println("Matrix with changed diagonals:");
         printMatrix(array);
     }
 
